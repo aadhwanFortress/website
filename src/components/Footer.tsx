@@ -1,4 +1,4 @@
-import { Camera, Mail, MapPin, Phone, Share2, Video } from "lucide-react";
+import { Mail, Phone } from "lucide-react";
 import { Link } from "react-router-dom";
 import { img } from "../assets/assetUrls";
 
@@ -37,9 +37,9 @@ export function Footer() {
             <ul className="footer-contact">
               <li>
                 <Phone size={18} />
-                <a href="tel:+16465550184">+1 (646) 555-0184</a>
+                <a href="tel:+919953846735">+91 99538 46735</a>
               </li>
-              <li>
+              {/* <li>
                 <MapPin size={18} />
                 <a
                   href="https://maps.google.com/?q=One World Trade Center New York NY 10007"
@@ -48,15 +48,15 @@ export function Footer() {
                 >
                   One World Trade Center, New York, NY 10007
                 </a>
-              </li>
+              </li> */}
               <li>
                 <Mail size={18} />
-                <a href="mailto:hello@hexashieldsecurity.com">
-                  hello@hexashieldsecurity.com
+                <a href="mailto:aadhwanfortress2026@gmail.com">
+                  aadhwanfortress2026@gmail.com
                 </a>
               </li>
             </ul>
-            <div className="social-links">
+            {/* <div className="social-links">
               <a
                 href="https://www.instagram.com"
                 target="_blank"
@@ -81,7 +81,7 @@ export function Footer() {
               >
                 <Video size={17} />
               </a>
-            </div>
+            </div> */}
           </div>
           <div>
             <h3>Quick Links</h3>
