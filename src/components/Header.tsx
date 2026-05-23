@@ -129,7 +129,7 @@ export function Header() {
             <div className="flex items-center justify-end gap-3">
               <CyberButton
                 to="/pricing"
-                className="hidden !px-7 lg:inline-flex"
+                className="hidden px-7! lg:inline-flex"
               >
                 Get Started
               </CyberButton>
