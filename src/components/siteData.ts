@@ -291,7 +291,7 @@ export const pricingPlans = [
 export const testimonials = [
   {
     quote:
-      'HexaShield gave us a clear view of risk across cloud, vendors, and endpoints. The recommendations were practical enough for engineering and clear enough for the board.',
+      'Aadhwan Fortress gave us a clear view of risk across cloud, vendors, and endpoints. The recommendations were practical enough for engineering and clear enough for the board.',
     name: 'Maya Collins',
     title: 'CTO, FinCloud Group',
   },
@@ -303,7 +303,7 @@ export const testimonials = [
   },
   {
     quote:
-      'We needed stronger controls without slowing patient services. HexaShield balanced security, compliance, and usability in a way our teams could adopt.',
+      'We needed stronger controls without slowing patient services. Aadhwan Fortress balanced security, compliance, and usability in a way our teams could adopt.',
     name: 'Leah Morgan',
     title: 'Founder, BrightClinic',
   },

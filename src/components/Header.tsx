@@ -55,7 +55,7 @@ function MobileMenu({ open, onClose }: MobileMenuProps) {
             <div className="flex items-center justify-between">
               <img
                 src={img.logo}
-                alt="Aadhwan fortress"
+                alt="Aadhwan Fortress"
                 className="h-10 w-auto"
               />
               <button
@@ -116,12 +116,12 @@ export function Header() {
           <div className="header-shell">
             <Link
               to="/"
-              aria-label="Aadhwan fortress home"
+              aria-label="Aadhwan Fortress home"
               className="relative z-10 block"
             >
               <img
                 src={img.logo}
-                alt="Aadhwan fortress"
+                alt="Aadhwan Fortress"
                 className="h-10 w-auto"
               />
             </Link>

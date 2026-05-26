@@ -29,7 +29,7 @@ export function HeroSection() {
         >
           <h1 id="hero-title">Cyber resilience for companies that cannot afford blind spots</h1>
           <p>
-            HexaShield helps security and leadership teams understand exposure, strengthen controls, and respond with
+            Aadhwan Fortress helps security and leadership teams understand exposure, strengthen controls, and respond with
             confidence across cloud, endpoint, identity, network, and third-party risk.
           </p>
           <CyberButton to="/services">Explore Services</CyberButton>

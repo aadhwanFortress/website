@@ -9,7 +9,7 @@ export default function NotFoundPage() {
         <h1 className="text-5xl font-bold uppercase">Page Not Found</h1>
         <p className="mx-auto mt-4 max-w-xl text-white/70">
           The page you are looking for is unavailable. Return home to continue
-          exploring Aadhwan fortress.
+          exploring Aadhwan Fortress.
         </p>
         <Link to="/" className="cyber-btn mt-8">
           <span className="relative z-10">Back Home</span>

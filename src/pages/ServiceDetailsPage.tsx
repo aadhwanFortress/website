@@ -40,7 +40,7 @@ export default function ServiceDetailsPage() {
             <img src={service.image} alt={service.title} />
             <h1>{service.title}</h1>
             <p>
-              {service.text} HexaShield designs each engagement around your risk profile, operational constraints, and
+              {service.text} Aadhwan Fortress designs each engagement around your risk profile, operational constraints, and
               compliance obligations, so recommendations are practical for engineering teams and meaningful for
               executives.
             </p>

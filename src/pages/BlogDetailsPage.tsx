@@ -17,7 +17,7 @@ export default function BlogDetailsPage() {
             <img src={post.image} alt={post.title} />
             <div className="blog-detail-meta">
               <span>
-                <UserRound size={16} /> HexaShield Research
+                <UserRound size={16} /> Aadhwan Fortress Research
               </span>
               <span>
                 <CalendarDays size={16} /> 12 May 2026

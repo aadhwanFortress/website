@@ -26,7 +26,7 @@ export function Footer() {
           <div className="footer-brand">
             <img
               src={img.footerLogo}
-              alt="Aadhwan fortress"
+              alt="Aadhwan Fortress"
               className="h-10 w-auto"
             />
             <p>
@@ -121,7 +121,7 @@ export function Footer() {
           </div>
         </div>
         <p className="copyright-text">
-          © 2026 <Link to="/">Aadhwan fortress.</Link> All rights reserved
+          © 2026 <Link to="/">Aadhwan Fortress.</Link> All rights reserved
         </p>
       </div>
     </footer>

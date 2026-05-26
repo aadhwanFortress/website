@@ -7,8 +7,8 @@ const modules = import.meta.glob('./website/*.{png,jpg,jpeg,svg,webp}', {
 export const asset = (file: string) => modules[`./website/${file}`] ?? ''
 
 export const img = {
-  logo: asset('logo.png'),
-  footerLogo: asset('upload-Logo.png'),
+  logo: asset('aadhwan-logo.svg'),
+  footerLogo: asset('aadhwan-logo.svg'),
   announcement: asset('annou.svg'),
   innerBanner: asset('banner.png'),
   heroGlobe: asset('slider-image.png'),
