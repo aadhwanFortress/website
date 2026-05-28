@@ -23,7 +23,7 @@ export function TestimonialsSection() {
               exit={{ opacity: 0, x: -30 }}
               transition={{ duration: 0.45 }}
             >
-              <p>"{testimonial.quote}"</p>
+              <p>{testimonial.quote ? `"${testimonial.quote}"` : testimonial.company}</p>
               <h3>{testimonial.name}</h3>
               <span>{testimonial.title}</span>
             </motion.article>

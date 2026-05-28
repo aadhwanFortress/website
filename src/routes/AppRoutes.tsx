@@ -9,7 +9,6 @@ const AboutPage = lazy(() => import('../pages/AboutPage'))
 const ServicesPage = lazy(() => import('../pages/ServicesPage'))
 const ServiceDetailsPage = lazy(() => import('../pages/ServiceDetailsPage'))
 const PricingPage = lazy(() => import('../pages/PricingPage'))
-const TeamPage = lazy(() => import('../pages/TeamPage'))
 const BlogPage = lazy(() => import('../pages/BlogPage'))
 const BlogDetailsPage = lazy(() => import('../pages/BlogDetailsPage'))
 const ContactPage = lazy(() => import('../pages/ContactPage'))
@@ -40,7 +39,6 @@ const router = createBrowserRouter([
           { path: '/services', element: <ServicesPage /> },
           { path: '/service-details', element: <ServiceDetailsPage /> },
           { path: '/pricing', element: <PricingPage /> },
-          { path: '/team', element: <TeamPage /> },
           { path: '/blog', element: <BlogPage /> },
           { path: '/blog-details', element: <BlogDetailsPage /> },
           { path: '/contact', element: <ContactPage /> },

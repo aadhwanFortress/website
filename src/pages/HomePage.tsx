@@ -11,7 +11,7 @@ import { IndustriesSection } from '../components/sections/IndustriesSection'
 import { NewsletterSection } from '../components/sections/NewsletterSection'
 import { ProcessSection } from '../components/sections/ProcessSection'
 import { ServicesPreview } from '../components/sections/ServicesPreview'
-import { TeamSection } from '../components/sections/TeamSection'
+import { TestimonialsSection } from '../components/sections/TestimonialsSection'
 import { TrainingSection } from '../components/sections/TrainingSection'
 
 export default function HomePage() {
@@ -27,7 +27,7 @@ export default function HomePage() {
       <BeyondSecuritySection />
       <ProcessSection />
       <TrainingSection />
-      <TeamSection />
+      <TestimonialsSection />
       <ContactSection />
       <NewsletterSection />
     </motion.div>
